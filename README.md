@@ -6,5 +6,5 @@ The framework is being constructed using Java, Selenium, TestNG, Log4j, Maven an
 
 # Project SOAP framework with Java
 
-SOAP UI framework with java is a framework which has both SOAP and REST testcases and is also coded with groovy script. The framework also contains assertions with respect to the testcases. The framework is then connected to java (TestNG) using SOAP jars and then the whole  project is connected to jenkins and is run as whole.
+SOAP UI framework with java is a framework which has both SOAP and REST testcases and is also coded with groovy script in the SOAP UI tool. The framework also contains assertions with respect to the testcases. The framework is then connected to java (TestNG) using SOAP jars and then the whole  project is connected to jenkins and is run as whole.
 
