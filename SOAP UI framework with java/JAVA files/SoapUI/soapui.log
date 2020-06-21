@@ -1,0 +1,6 @@
+2020-06-21 11:22:19,641 WARN  [SoapUI] Missing folder [C:\my java\SoapUI\ext] for external libraries
+2020-06-21 11:22:20,017 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Santhosh\soapui-settings.xml]
+2020-06-21 11:22:22,384 INFO  [PluginManager] 0 plugins loaded in 3 ms
+2020-06-21 11:22:22,384 INFO  [DefaultSoapUICore] All plugins loaded
+2020-06-21 11:22:23,536 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Santhosh/Documents/Docs/EmployeeAutomation-soapui-project.xml]
+2020-06-21 11:22:24,755 INFO  [log] Tony
